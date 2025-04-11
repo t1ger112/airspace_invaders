@@ -2,14 +2,15 @@
 MASUAS-Themed aircraft game inspired by 2d retro games such as (air)space invaders!
 
 To install for WINDOWS: 
+ - Navigate to the latest release/version availiable on this GitHub repository
  - Download the entire file named: "AIRSPACE_INVADERS_masuasEdition_winAmd64"
- - Unzip the contents if neccessary (i.e. already downloaded in a .zip folder!)
- - Now open the downloaded file and double-click the file: "AIRSPACE_INVADERS.exe"
- - Pending how the user's antivirus scans act, the game should now load and open
- - Enjoy escaping the many obstacles in the Woodvale airspace!
+ - Unzip the contents if neccessary (Right-Click Zip File -> Extract All Button)
+ - Now open the downloaded file and double-click the game: "AIRSPACE_INVADERS.exe"
+ - Pending how local device's antivirus scans act, the game should load and open
+ - Enjoy escaping the many obstacles of the Woodvale airspace!
 
 
-Running on "Java", using the "processing" graphics code library,
+Game Running on "java", using the "processing" graphics code library, 
 LINK to processing download: https://processing.org 
 
 Linux executeable (.exe) availiable upon request/demand.
