@@ -2,7 +2,7 @@
 MASUAS-Themed aircraft game inspired by 2d retro games such as (air)space invaders!
 
 To install for WINDOWS: 
- - Navigate to the latest release/version availiable on this GitHub repository (DOWNLOAD v1.#.#)
+ - Navigate to the latest release available on this GitHub repository (DOWNLOAD v1.#.#)
  - Download the entire file named: "AIRSPACE_INVADERS_masuasEdition_winAmd64"
  - Unzip the contents if neccessary (Right-Click Zip File -> Extract All Button)
  - Now open the unzipped folder and double-click the game file: "AIRSPACE_INVADERS.exe"
