@@ -5,7 +5,7 @@ To install for WINDOWS:
  - Navigate to the latest release/version availiable on this GitHub repository
  - Download the entire file named: "AIRSPACE_INVADERS_masuasEdition_winAmd64"
  - Unzip the contents if neccessary (Right-Click Zip File -> Extract All Button)
- - Now open the downloaded file and double-click the game: "AIRSPACE_INVADERS.exe"
+ - Now open the unzipped folder and double-click the game file: "AIRSPACE_INVADERS.exe"
  - Pending how local device's antivirus scans act, the game should load and open
  - Enjoy escaping the many obstacles of the Woodvale airspace!
 
