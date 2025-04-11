@@ -8,5 +8,8 @@ To install for WINDOWS:
  - Pending how the user's antivirus scans act, the game should now load and open
  - Enjoy escaping the many obstacles in the Woodvale airspace!
 
-Running on "Java", using the "processing" graphics code library, linux .exe availiable upon request.
+
+Running on "Java", using the "processing" graphics code library,
 LINK to processing download: https://processing.org 
+
+Linux executeable (.exe) availiable upon request/demand.
