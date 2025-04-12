@@ -7,6 +7,7 @@ To install for WINDOWS:
  - Unzip the contents if neccessary (Right-Click Zip File -> Extract All Button)
  - Now open the unzipped folder and double-click the game file: "AIRSPACE_INVADERS.exe"
  - Pending how local device's antivirus scans act, the game should load and open
+ - If windows defender triggers, click "More Info" then "Run Anyway" to load and open
  - Enjoy escaping the many obstacles of the Woodvale airspace!
 
 
